@@ -4,7 +4,7 @@
 
 In this forked repo, you will find the lab exercises I have completed.
 
-# PART I - Session 2
+# PART I - Session 2 (*TD 2 folder!*)
 ### Instructions to run the program and play with it:
 Open the solution `BasicExamplesTP2.sln` \
 Run `BasicWebServerUrlParser` \
